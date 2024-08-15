@@ -1,0 +1,108 @@
+{
+    "districts": [
+        {
+            "id": 0,
+            "name": "All"
+        },
+        {
+            "id": 1,
+            "name": "Colombo"
+        },
+        {
+            "id": 2,
+            "name": "Gampaha"
+        },
+        {
+            "id": 3,
+            "name": "Kalutara"
+        },
+        {
+            "id": 4,
+            "name": "Kandy"
+        },
+        {
+            "id": 5,
+            "name": "Matale"
+        },
+        {
+            "id": 6,
+            "name": "Nuwara Eliya"
+        },
+        {
+            "id": 7,
+            "name": "Galle"
+        },
+        {
+            "id": 8,
+            "name": "Matara"
+        },
+        {
+            "id": 9,
+            "name": "Hambantota"
+        },
+        {
+            "id": 10,
+            "name": "Jaffna"
+        },
+        {
+            "id": 11,
+            "name": "Kilinochchi"
+        },
+        {
+            "id": 12,
+            "name": "Mannar"
+        },
+        {
+            "id": 13,
+            "name": "Vavuniya"
+        },
+        {
+            "id": 14,
+            "name": "Mullaitivu"
+        },
+        {
+            "id": 15,
+            "name": "Batticaloa"
+        },
+        {
+            "id": 16,
+            "name": "Ampara"
+        },
+        {
+            "id": 17,
+            "name": "Trincomalee"
+        },
+        {
+            "id": 18,
+            "name": "Kurunegala"
+        },
+        {
+            "id": 19,
+            "name": "Puttalam"
+        },
+        {
+            "id": 20,
+            "name": "Anuradhapura"
+        },
+        {
+            "id": 21,
+            "name": "Polonnaruwa"
+        },
+        {
+            "id": 22,
+            "name": "Badulla"
+        },
+        {
+            "id": 23,
+            "name": "Monaragala"
+        },
+        {
+            "id": 24,
+            "name": "Ratnapura"
+        },
+        {
+            "id": 25,
+            "name": "Kegalle"
+        }
+    ]
+}

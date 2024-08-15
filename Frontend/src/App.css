@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-image: url(../public/assets/bg-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.legend {
+	font-size: x-large !important;
+	
+}
+.img{
+	height: 30px;
+  	width: 30px;
+}
